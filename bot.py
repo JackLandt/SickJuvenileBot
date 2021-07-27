@@ -76,4 +76,4 @@ class MyClient(discord.Client):
             await message.channel.send(cell)
 
 client = MyClient()
-client.run('ODY1NjMyOTY1ODkxNzE5MjA5.YPG1hQ.DDCgzgtjjF5PuDzQkwGeWH4s0EA')
+client.run('BOT_TOKEN')
